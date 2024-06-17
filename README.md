@@ -18,6 +18,9 @@
 [Capabilities MAN page](https://man7.org/linux/man-pages/man7/capabilities.7.html)
 [Don't use nscd](https://jameshfisher.com/2018/02/05/dont-use-nscd/)
 
+# Ricing
+[ITerm2 semantic history using neovim](https://learn.typecraft.dev/community/iterm_semantic_history/)
+
 # Rust
 [Understanding Rust futures by going way too deep](https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep)
 [What's in the Box?](https://fasterthanli.me/articles/whats-in-the-box)
