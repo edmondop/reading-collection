@@ -3,6 +3,8 @@
 
 [Introducing Arrow Flight](https://arrow.apache.org/blog/2019/10/13/introducing-arrow-flight/)
 
+[Apache Arrow, Parquet, Flight and their ecosystem are a game changer for OLAP](https://www.influxdata.com/blog/apache-arrow-parquet-flight-and-their-ecosystem-are-a-game-changer-for-olap/)
+
 # Cloud
 [Lessons learned from 10 years of DynamoDB](https://www.amazon.science/blog/lessons-learned-from-10-years-of-dynamodb)
 
