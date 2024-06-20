@@ -25,6 +25,9 @@
 
 [Don't use nscd](https://jameshfisher.com/2018/02/05/dont-use-nscd/)
 
+# Python
+[Multithreading vs Multiprocesing vs AsyncIO](https://www.linkedin.com/pulse/multithreading-vs-multiprocessing-asyncio-code-examples-kaushik-yxgjc/)
+
 # Ricing
 [ITerm2 semantic history using neovim](https://learn.typecraft.dev/community/iterm_semantic_history/)
 
@@ -34,6 +37,10 @@
 [What's in the Box?](https://fasterthanli.me/articles/whats-in-the-box)
 
 [Pin and suffering](https://fasterthanli.me/articles/pin-and-suffering)
+
+[How to build a plugin system in Rust](https://www.arroyo.dev/blog/rust-plugin-systems)
+
+[A plugin system in Rust](https://nullderef.com/series/rust-plugins/)
 
 # System Design
 [Redis Use Cases](https://newsletter.systemdesign.one/p/redis-use-cases)
