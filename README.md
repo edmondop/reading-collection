@@ -35,6 +35,8 @@
 
 [Pin and suffering](https://fasterthanli.me/articles/pin-and-suffering)
 
+# System Design
+[Redis Use Cases](https://newsletter.systemdesign.one/p/redis-use-cases)
 
 # Theoretical CS
 [Immutability changes everything](https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
