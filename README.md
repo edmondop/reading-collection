@@ -25,6 +25,8 @@
 
 [Don't use nscd](https://jameshfisher.com/2018/02/05/dont-use-nscd/)
 
+[What Is a Standard Container: Diving Into the OCI Runtime Spec](https://iximiuz.com/en/posts/oci-containers/)
+
 [EBPF Documentary](https://ebpfdocumentary.com/)
 
 # Python
