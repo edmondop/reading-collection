@@ -46,6 +46,7 @@
 
 [A plugin system in Rust](https://nullderef.com/series/rust-plugins/)
 
+[A Guided Tour of Streams in Rust](https://www.qovery.com/blog/a-guided-tour-of-streams-in-rust/)
 # System Design
 [Redis Use Cases](https://newsletter.systemdesign.one/p/redis-use-cases)
 
