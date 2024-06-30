@@ -42,6 +42,8 @@
 
 [Pin and suffering](https://fasterthanli.me/articles/pin-and-suffering)
 
+[Pin, Unpin and why Rust needs them](https://blog.cloudflare.com/pin-and-unpin-in-rust)
+
 [How to build a plugin system in Rust](https://www.arroyo.dev/blog/rust-plugin-systems)
 
 [A plugin system in Rust](https://nullderef.com/series/rust-plugins/)
