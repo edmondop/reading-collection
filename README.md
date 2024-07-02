@@ -52,6 +52,8 @@
 
 [SIMD for Parallel Processing in Rust](https://nrempel.com/using-simd-for-parallel-processing-in-rust/)
 
+[Exploring Atomics in Rust](https://cfsamsonbooks.gitbook.io/)
+
 # System Design
 [Redis Use Cases](https://newsletter.systemdesign.one/p/redis-use-cases)
 
