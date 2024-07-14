@@ -13,7 +13,11 @@
 
 [Why we built ReState](https://restate.dev/blog/why-we-built-restate/)
 
+# Hardware
+[What every programmer should know about memory - part 1](https://lwn.net/Articles/250967/)
+
 # Infra
+
 [How does Docker ACTUALLY work? The Hard Way: A Comprehensive Technical Deep Diving](https://medium.com/@furkan.turkal/how-does-docker-actually-work-the-hard-way-a-technical-deep-diving-c5b8ea2f0422)
 
 # Linux
