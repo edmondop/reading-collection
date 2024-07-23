@@ -7,6 +7,7 @@
 
 # Cloud
 [Lessons learned from 10 years of DynamoDB](https://www.amazon.science/blog/lessons-learned-from-10-years-of-dynamodb)
+[Serverless messaging Latency compared](https://lucvandonkersgoed.com/2022/09/06/serverless-messaging-latency-compared/)
 
 # Durable Executions
 [Why your Applications need Durable Executions](https://medium.com/orkes/why-your-applications-need-durable-execution-and-best-practices-to-achieve-it-d50c62fdce96)
