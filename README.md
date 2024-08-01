@@ -34,6 +34,9 @@
 
 [EBPF Documentary](https://ebpfdocumentary.com/)
 
+# Neovim
+[NVIM treesitter and text objects](https://www.josean.com/posts/nvim-treesitter-and-textobjects)
+
 # Python
 [Multithreading vs Multiprocesing vs AsyncIO](https://www.linkedin.com/pulse/multithreading-vs-multiprocessing-asyncio-code-examples-kaushik-yxgjc/)
 
