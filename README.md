@@ -35,6 +35,8 @@
 
 [EBPF Documentary](https://ebpfdocumentary.com/)
 
+[Filesystems in the Linux Kernel](https://www.kernel.org/doc/html/latest/filesystems/)
+
 # Neovim
 [NVIM treesitter and text objects](https://www.josean.com/posts/nvim-treesitter-and-textobjects)
 
