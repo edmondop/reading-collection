@@ -4,6 +4,8 @@
 [Introducing Arrow Flight](https://arrow.apache.org/blog/2019/10/13/introducing-arrow-flight/)
 
 [Apache Arrow, Parquet, Flight and their ecosystem are a game changer for OLAP](https://www.influxdata.com/blog/apache-arrow-parquet-flight-and-their-ecosystem-are-a-game-changer-for-olap/)
+[Amazon Aurora - Amazon Aurora: Design Considerations for High
+Throughput Cloud-Native Relational Databases](https://pages.cs.wisc.edu/~yxy/cs764-f20/papers/aurora-sigmod-17.pdf)
 
 # Cloud
 [Lessons learned from 10 years of DynamoDB](https://www.amazon.science/blog/lessons-learned-from-10-years-of-dynamodb)
