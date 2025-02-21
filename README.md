@@ -10,6 +10,9 @@
 [Serverless messaging Latency compared](https://lucvandonkersgoed.com/2022/09/06/serverless-messaging-latency-compared/)
 [Connection pools for serverless functions](https://redis.io/blog/connection-pools-for-serverless-functions-and-backend-services/)
 
+# Databases
+[Zheap, reinvented PostgreSQL storage](https://www.cybertec-postgresql.com/en/zheap-reinvented-postgresql-storage/)
+[Zedstore, a mixed row-columnar storage for Postgres](https://www.alibabacloud.com/blog/use-mixed-storage-of-rows-and-columns-in-postgresql-zedstore_598963)
 # Durable Executions
 [Why your Applications need Durable Executions](https://medium.com/orkes/why-your-applications-need-durable-execution-and-best-practices-to-achieve-it-d50c62fdce96)
 
