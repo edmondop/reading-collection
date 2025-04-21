@@ -15,6 +15,8 @@ Throughput Cloud-Native Relational Databases](https://pages.cs.wisc.edu/~yxy/cs7
 # Databases
 [Zheap, reinvented PostgreSQL storage](https://www.cybertec-postgresql.com/en/zheap-reinvented-postgresql-storage/)
 [Zedstore, a mixed row-columnar storage for Postgres](https://www.alibabacloud.com/blog/use-mixed-storage-of-rows-and-columns-in-postgresql-zedstore_598963)
+[25 Life Altering PostgreSQL patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns)
+
 # Durable Executions
 [Why your Applications need Durable Executions](https://medium.com/orkes/why-your-applications-need-durable-execution-and-best-practices-to-achieve-it-d50c62fdce96)
 
