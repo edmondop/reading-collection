@@ -19,8 +19,12 @@ Throughput Cloud-Native Relational Databases](https://pages.cs.wisc.edu/~yxy/cs7
 
 # Durable Executions
 [Why your Applications need Durable Executions](https://medium.com/orkes/why-your-applications-need-durable-execution-and-best-practices-to-achieve-it-d50c62fdce96)
-
 [Why we built ReState](https://restate.dev/blog/why-we-built-restate/)
+
+# Git
+[Git Notes: coolest most unloved feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
+[Git Appraise](https://github.com/google/git-appraise)
+
 
 # Hardware
 [What every programmer should know about memory - part 1](https://lwn.net/Articles/250967/)
