@@ -81,3 +81,6 @@ Throughput Cloud-Native Relational Databases](https://pages.cs.wisc.edu/~yxy/cs7
 
 # Theoretical CS
 [Immutability changes everything](https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
+
+# VIM / Neovim
+[Learn Vim The Smart Way](https://learnvim.irian.to/)
