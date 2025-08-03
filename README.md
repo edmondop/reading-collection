@@ -1,11 +1,12 @@
 # Big Data
 [The striping and assembly algorithms from the Dremel paper](https://github.com/julienledem/redelm/wiki/The-striping-and-assembly-algorithms-from-the-Dremel-paper)
-
+[Columnar file readers in Depth - LanceDB](https://blog.lancedb.com/columnar-file-readers-in-depth-column-shredding/)
 [Introducing Arrow Flight](https://arrow.apache.org/blog/2019/10/13/introducing-arrow-flight/)
 
 [Apache Arrow, Parquet, Flight and their ecosystem are a game changer for OLAP](https://www.influxdata.com/blog/apache-arrow-parquet-flight-and-their-ecosystem-are-a-game-changer-for-olap/)
 [Amazon Aurora - Amazon Aurora: Design Considerations for High
 Throughput Cloud-Native Relational Databases](https://pages.cs.wisc.edu/~yxy/cs764-f20/papers/aurora-sigmod-17.pdf)
+
 
 # Cloud
 [Lessons learned from 10 years of DynamoDB](https://www.amazon.science/blog/lessons-learned-from-10-years-of-dynamodb)
