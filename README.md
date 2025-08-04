@@ -6,18 +6,22 @@
 [Introducing Arrow Flight](https://arrow.apache.org/blog/2019/10/13/introducing-arrow-flight/)
 
 [Apache Arrow, Parquet, Flight and their ecosystem are a game changer for OLAP](https://www.influxdata.com/blog/apache-arrow-parquet-flight-and-their-ecosystem-are-a-game-changer-for-olap/)
-[Amazon Aurora - Amazon Aurora: Design Considerations for High
-Throughput Cloud-Native Relational Databases](https://pages.cs.wisc.edu/~yxy/cs764-f20/papers/aurora-sigmod-17.pdf)
+
+[Amazon Aurora - Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases](https://pages.cs.wisc.edu/~yxy/cs764-f20/papers/aurora-sigmod-17.pdf)
 
 
 # Cloud
 [Lessons learned from 10 years of DynamoDB](https://www.amazon.science/blog/lessons-learned-from-10-years-of-dynamodb)
+
 [Serverless messaging Latency compared](https://lucvandonkersgoed.com/2022/09/06/serverless-messaging-latency-compared/)
+
 [Connection pools for serverless functions](https://redis.io/blog/connection-pools-for-serverless-functions-and-backend-services/)
 
 # Databases
 [Zheap, reinvented PostgreSQL storage](https://www.cybertec-postgresql.com/en/zheap-reinvented-postgresql-storage/)
+
 [Zedstore, a mixed row-columnar storage for Postgres](https://www.alibabacloud.com/blog/use-mixed-storage-of-rows-and-columns-in-postgresql-zedstore_598963)
+
 [25 Life Altering PostgreSQL patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns)
 
 # Durable Executions
@@ -27,6 +31,7 @@ Throughput Cloud-Native Relational Databases](https://pages.cs.wisc.edu/~yxy/cs7
 
 # Git
 [Git Notes: coolest most unloved feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
+
 [Git Appraise](https://github.com/google/git-appraise)
 
 
