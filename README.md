@@ -1,6 +1,8 @@
 # Big Data
 [The striping and assembly algorithms from the Dremel paper](https://github.com/julienledem/redelm/wiki/The-striping-and-assembly-algorithms-from-the-Dremel-paper)
+
 [Columnar file readers in Depth - LanceDB](https://blog.lancedb.com/columnar-file-readers-in-depth-column-shredding/)
+
 [Introducing Arrow Flight](https://arrow.apache.org/blog/2019/10/13/introducing-arrow-flight/)
 
 [Apache Arrow, Parquet, Flight and their ecosystem are a game changer for OLAP](https://www.influxdata.com/blog/apache-arrow-parquet-flight-and-their-ecosystem-are-a-game-changer-for-olap/)
@@ -20,6 +22,7 @@ Throughput Cloud-Native Relational Databases](https://pages.cs.wisc.edu/~yxy/cs7
 
 # Durable Executions
 [Why your Applications need Durable Executions](https://medium.com/orkes/why-your-applications-need-durable-execution-and-best-practices-to-achieve-it-d50c62fdce96)
+
 [Why we built ReState](https://restate.dev/blog/why-we-built-restate/)
 
 # Git
