@@ -9,6 +9,8 @@
 
 [Amazon Aurora - Amazon Aurora: Design Considerations for High Throughput Cloud-Native Relational Databases](https://pages.cs.wisc.edu/~yxy/cs764-f20/papers/aurora-sigmod-17.pdf)
 
+[Iceberg Clustering in Dremio](https://www.dremio.com/blog/dremios-apache-iceberg-clustering-technical-blog/)
+
 
 # Cloud
 [Lessons learned from 10 years of DynamoDB](https://www.amazon.science/blog/lessons-learned-from-10-years-of-dynamodb)
