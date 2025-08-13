@@ -24,6 +24,14 @@
 
 [25 Life Altering PostgreSQL patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns)
 
+[DSQL sucks at TPC-B](https://marc-bowes.com/dsql-tcpb.html)
+
+[DSQL Circle of life](https://marc-bowes.com/dsql-circle-of-life.html)
+
+[DSQL versus Aurora Serverless V2 Cost Analysis](https://engineering.doit.com/comparing-aurora-distributed-sql-vs-aurora-serverless-v2-a-practical-cost-analysis-f7cf9cd2dbf8)
+
+[How does aurora DSQL works?](https://engineering.doit.com/aurora-dsql-uncovered-the-future-of-scalable-databases-f2fabcde672a)
+
 # Durable Executions
 [Why your Applications need Durable Executions](https://medium.com/orkes/why-your-applications-need-durable-execution-and-best-practices-to-achieve-it-d50c62fdce96)
 
