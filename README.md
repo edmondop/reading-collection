@@ -44,6 +44,10 @@
 
 [Git Appraise](https://github.com/google/git-appraise)
 
+# Go
+[Keynote by Rob Pike at SPLASH 2012](https://go.dev/talks/2012/splash.article)
+
+[Go Declaration Syntax](https://go.dev/blog/declaration-syntax)
 
 # Hardware
 [What every programmer should know about memory - part 1](https://lwn.net/Articles/250967/)
