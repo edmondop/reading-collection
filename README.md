@@ -74,8 +74,17 @@
 # Neovim
 [NVIM treesitter and text objects](https://www.josean.com/posts/nvim-treesitter-and-textobjects)
 
+# Postgres
+
+[Mastering Postgres replication slots](https://www.morling.dev/blog/mastering-postgres-replication-slots/)
+
+[Postgres 15 Logical Decoding Row Filters with Debezium](https://www.decodable.co/blog/postgres-15-logical-decoding-row-filters-with-debezium)
+
+[The Oversized-Attribute Storage Technique](https://www.postgresql.org/docs/current/storage-toast.html)
+
 # Python
 [Multithreading vs Multiprocesing vs AsyncIO](https://www.linkedin.com/pulse/multithreading-vs-multiprocessing-asyncio-code-examples-kaushik-yxgjc/)
+
 
 # Ricing
 [ITerm2 semantic history using neovim](https://learn.typecraft.dev/community/iterm_semantic_history/)
