@@ -1,3 +1,7 @@
+# AI - Tooling
+[Build your own coding agent](https://martinfowler.com/articles/build-own-coding-agent.html)
+
+
 # Big Data
 [The striping and assembly algorithms from the Dremel paper](https://github.com/julienledem/redelm/wiki/The-striping-and-assembly-algorithms-from-the-Dremel-paper)
 
