@@ -1,5 +1,7 @@
 # AI - Tooling
-[Build your own coding agent](https://martinfowler.com/articles/build-own-coding-agent.html)
+[Build your own coding agent (using PydanticAI) ](https://martinfowler.com/articles/build-own-coding-agent.html)
+
+[How to build an Agent (GoLang)](https://ampcode.com/how-to-build-an-agent)
 
 
 # Big Data
