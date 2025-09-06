@@ -95,6 +95,9 @@
 # Python
 [Multithreading vs Multiprocesing vs AsyncIO](https://www.linkedin.com/pulse/multithreading-vs-multiprocessing-asyncio-code-examples-kaushik-yxgjc/)
 
+# Regular Expressions
+
+[Structural Regular Expressions - Rob Pike](https://doc.cat-v.org/bell_labs/structural_regexps/se.pdf)
 
 # Ricing
 [ITerm2 semantic history using neovim](https://learn.typecraft.dev/community/iterm_semantic_history/)
