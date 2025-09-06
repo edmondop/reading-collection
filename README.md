@@ -3,6 +3,10 @@
 
 [How to build an Agent (GoLang)](https://ampcode.com/how-to-build-an-agent)
 
+[OPEA Project](https://github.com/opea-project)
+
+[Deploy your first GenAI service with Kserve](https://kserve.github.io/website/docs/getting-started/genai-first-isvc)
+
 
 # Big Data
 [The striping and assembly algorithms from the Dremel paper](https://github.com/julienledem/redelm/wiki/The-striping-and-assembly-algorithms-from-the-Dremel-paper)
