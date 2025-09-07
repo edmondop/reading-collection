@@ -95,9 +95,19 @@
 # Python
 [Multithreading vs Multiprocesing vs AsyncIO](https://www.linkedin.com/pulse/multithreading-vs-multiprocessing-asyncio-code-examples-kaushik-yxgjc/)
 
-# Regular Expressions
+# Formal Languages and Regular Expressions
+
+[The Elements of Good Regex Style](https://www.rexegg.com/regex-style.php)
+
+[The True Power of Regular Expression](https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.htm)
+
+[Implementing a Regexp engine in Javascript](https://www.abstractsyntaxseed.com/blog/regex-engine/implementing-a-nfa)
 
 [Structural Regular Expressions - Rob Pike](https://doc.cat-v.org/bell_labs/structural_regexps/se.pdf)
+
+[Explosive Quantifiers](https://www.rexegg.com/regex-explosive-quantifiers.php)
+
+[Catastrophic Backtracking in Regexp](https://www.regular-expressions.info/catastrophic.html)
 
 # Ricing
 [ITerm2 semantic history using neovim](https://learn.typecraft.dev/community/iterm_semantic_history/)
