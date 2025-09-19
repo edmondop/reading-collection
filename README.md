@@ -11,6 +11,7 @@
 
 [Cedar Analysis: Open Source Tool to Verify Authorization Policies](https://www.cedarpolicy.com/blog/introducing-cedar-analysis)
 
+[What is analyzable](https://www.cedarpolicy.com/blog/whats-analyzable)
 
 # Big Data
 [The striping and assembly algorithms from the Dremel paper](https://github.com/julienledem/redelm/wiki/The-striping-and-assembly-algorithms-from-the-Dremel-paper)
@@ -52,6 +53,11 @@
 [Why your Applications need Durable Executions](https://medium.com/orkes/why-your-applications-need-durable-execution-and-best-practices-to-achieve-it-d50c62fdce96)
 
 [Why we built ReState](https://restate.dev/blog/why-we-built-restate/)
+
+# Formal methods
+
+[What is analyzable](https://www.cedarpolicy.com/blog/whats-analyzable)
+
 
 # Git
 [Git Notes: coolest most unloved feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
