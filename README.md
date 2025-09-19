@@ -7,6 +7,10 @@
 
 [Deploy your first GenAI service with Kserve](https://kserve.github.io/website/docs/getting-started/genai-first-isvc)
 
+# Authorization
+
+[Cedar Analysis: Open Source Tool to Verify Authorization Policies](https://www.cedarpolicy.com/blog/introducing-cedar-analysis)
+
 
 # Big Data
 [The striping and assembly algorithms from the Dremel paper](https://github.com/julienledem/redelm/wiki/The-striping-and-assembly-algorithms-from-the-Dremel-paper)
