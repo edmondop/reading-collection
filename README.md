@@ -105,6 +105,10 @@
 # Python
 [Multithreading vs Multiprocesing vs AsyncIO](https://www.linkedin.com/pulse/multithreading-vs-multiprocessing-asyncio-code-examples-kaushik-yxgjc/)
 
+[Baby's first type checker](https://austinhenley.com/blog/babytypechecker.html)
+
+[How Well Do New Python Type Checkers Conform](https://sinon.github.io/future-python-type-checkers/)
+
 # Formal Languages and Regular Expressions
 
 [The Elements of Good Regex Style](https://www.rexegg.com/regex-style.php)
