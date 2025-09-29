@@ -1,4 +1,5 @@
 # AI - Tooling
+
 [Build your own coding agent (using PydanticAI) ](https://martinfowler.com/articles/build-own-coding-agent.html)
 
 [How to build an Agent (GoLang)](https://ampcode.com/how-to-build-an-agent)
@@ -14,6 +15,7 @@
 [What is analyzable](https://www.cedarpolicy.com/blog/whats-analyzable)
 
 # Big Data
+
 [The striping and assembly algorithms from the Dremel paper](https://github.com/julienledem/redelm/wiki/The-striping-and-assembly-algorithms-from-the-Dremel-paper)
 
 [Columnar file readers in Depth - LanceDB](https://blog.lancedb.com/columnar-file-readers-in-depth-column-shredding/)
@@ -26,8 +28,8 @@
 
 [Iceberg Clustering in Dremio](https://www.dremio.com/blog/dremios-apache-iceberg-clustering-technical-blog/)
 
-
 # Cloud
+
 [Lessons learned from 10 years of DynamoDB](https://www.amazon.science/blog/lessons-learned-from-10-years-of-dynamodb)
 
 [Serverless messaging Latency compared](https://lucvandonkersgoed.com/2022/09/06/serverless-messaging-latency-compared/)
@@ -35,6 +37,7 @@
 [Connection pools for serverless functions](https://redis.io/blog/connection-pools-for-serverless-functions-and-backend-services/)
 
 # Databases
+
 [Zheap, reinvented PostgreSQL storage](https://www.cybertec-postgresql.com/en/zheap-reinvented-postgresql-storage/)
 
 [Zedstore, a mixed row-columnar storage for Postgres](https://www.alibabacloud.com/blog/use-mixed-storage-of-rows-and-columns-in-postgresql-zedstore_598963)
@@ -49,7 +52,10 @@
 
 [How does aurora DSQL works?](https://engineering.doit.com/aurora-dsql-uncovered-the-future-of-scalable-databases-f2fabcde672a)
 
+[Postgres to MySQL migration at Uber](https://www.uber.com/blog/postgres-to-mysql-migration)
+
 # Durable Executions
+
 [Why your Applications need Durable Executions](https://medium.com/orkes/why-your-applications-need-durable-execution-and-best-practices-to-achieve-it-d50c62fdce96)
 
 [Why we built ReState](https://restate.dev/blog/why-we-built-restate/)
@@ -58,18 +64,20 @@
 
 [What is analyzable](https://www.cedarpolicy.com/blog/whats-analyzable)
 
-
 # Git
+
 [Git Notes: coolest most unloved feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
 
 [Git Appraise](https://github.com/google/git-appraise)
 
 # Go
+
 [Keynote by Rob Pike at SPLASH 2012](https://go.dev/talks/2012/splash.article)
 
 [Go Declaration Syntax](https://go.dev/blog/declaration-syntax)
 
 # Hardware
+
 [What every programmer should know about memory - part 1](https://lwn.net/Articles/250967/)
 
 # Infra
@@ -77,6 +85,7 @@
 [How does Docker ACTUALLY work? The Hard Way: A Comprehensive Technical Deep Diving](https://medium.com/@furkan.turkal/how-does-docker-actually-work-the-hard-way-a-technical-deep-diving-c5b8ea2f0422)
 
 # Linux
+
 [Understanding Linux Capabilities - Part I](https://blog.pentesteracademy.com/linux-security-understanding-linux-capabilities-series-part-i-4034cf8a7f09)
 
 [An introduction to Linux Capabilities](https://earthly.dev/blog/intro-to-linux-capabilities/)
@@ -92,6 +101,7 @@
 [Filesystems in the Linux Kernel](https://www.kernel.org/doc/html/latest/filesystems/)
 
 # Neovim
+
 [NVIM treesitter and text objects](https://www.josean.com/posts/nvim-treesitter-and-textobjects)
 
 # Postgres
@@ -103,6 +113,7 @@
 [The Oversized-Attribute Storage Technique](https://www.postgresql.org/docs/current/storage-toast.html)
 
 # Python
+
 [Multithreading vs Multiprocesing vs AsyncIO](https://www.linkedin.com/pulse/multithreading-vs-multiprocessing-asyncio-code-examples-kaushik-yxgjc/)
 
 [Baby's first type checker](https://austinhenley.com/blog/babytypechecker.html)
@@ -124,9 +135,11 @@
 [Catastrophic Backtracking in Regexp](https://www.regular-expressions.info/catastrophic.html)
 
 # Ricing
+
 [ITerm2 semantic history using neovim](https://learn.typecraft.dev/community/iterm_semantic_history/)
 
 # Rust
+
 [Understanding Rust futures by going way too deep](https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep)
 
 [What's in the Box?](https://fasterthanli.me/articles/whats-in-the-box)
@@ -146,10 +159,13 @@
 [Exploring Atomics in Rust](https://cfsamsonbooks.gitbook.io/)
 
 # System Design
+
 [Redis Use Cases](https://newsletter.systemdesign.one/p/redis-use-cases)
 
 # Theoretical CS
+
 [Immutability changes everything](https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
 
 # VIM / Neovim
+
 [Learn Vim The Smart Way](https://learnvim.irian.to/)
