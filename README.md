@@ -120,6 +120,12 @@
 
 [How Well Do New Python Type Checkers Conform](https://sinon.github.io/future-python-type-checkers/)
 
+[CPython VM Internals](https://blog.codingconfessions.com/p/cpython-vm-internals)
+
+[Compiling Python To Run Anywhere](https://blog.codingconfessions.com/p/compiling-python-to-run-anywhere)
+
+[CPython Internals: what happens before bytecode execution starts](https://blog.codingconfessions.com/p/cpython-internals-before-bytecode-execution)
+
 # Formal Languages and Regular Expressions
 
 [The Elements of Good Regex Style](https://www.rexegg.com/regex-style.php)
