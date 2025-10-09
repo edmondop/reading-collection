@@ -1,3 +1,7 @@
+# AI - Theory
+
+[Top 30 papers from Ilya Sutskever](https://aman.ai/primers/ai/top-30-papers/)
+
 # AI - Tooling
 
 [Build your own coding agent (using PydanticAI) ](https://martinfowler.com/articles/build-own-coding-agent.html)
