@@ -108,6 +108,9 @@
 
 [NVIM treesitter and text objects](https://www.josean.com/posts/nvim-treesitter-and-textobjects)
 
+[Neovim Reddit Tips and Tricks Bookmark](https://www.reddit.com/r/neovim/?f=flair_name%3A%22Tips%20and%20tricks%22&feedViewType=compactView)
+
+
 # Postgres
 
 [Mastering Postgres replication slots](https://www.morling.dev/blog/mastering-postgres-replication-slots/)
