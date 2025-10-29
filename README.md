@@ -110,6 +110,8 @@
 
 [Neovim Reddit Tips and Tricks Bookmark](https://www.reddit.com/r/neovim/?f=flair_name%3A%22Tips%20and%20tricks%22&feedViewType=compactView)
 
+[Packing Neovim with Fennel](https://www.jonashietala.se/blog/2025/10/29/packing_neovim_with_fennel/)
+
 
 # Postgres
 
