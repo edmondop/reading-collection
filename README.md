@@ -173,6 +173,7 @@
 
 [Exploring Atomics in Rust](https://cfsamsonbooks.gitbook.io/)
 
+[The Death of the Thread Per Core](https://buttondown.com/jaffray/archive/the-death-of-thread-per-core/)
 # System Design
 
 [Redis Use Cases](https://newsletter.systemdesign.one/p/redis-use-cases)
