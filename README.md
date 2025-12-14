@@ -178,6 +178,10 @@
 
 [Redis Use Cases](https://newsletter.systemdesign.one/p/redis-use-cases)
 
+# Startup
+
+[50 Questions for a Co-founder](https://proof-assets.s3.amazonaws.com/firstround/50%20Questions%20for%20Co-Founders.pdf)
+
 # Theoretical CS
 
 [Immutability changes everything](https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
