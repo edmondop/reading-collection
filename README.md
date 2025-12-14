@@ -155,6 +155,8 @@
 
 # Rust
 
+[The Rust Programming Language - 2010 Slide deck at Mozilla Annual Summit](https://venge.net/graydon/talks/intro-talk.pdf)
+
 [Understanding Rust futures by going way too deep](https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep)
 
 [What's in the Box?](https://fasterthanli.me/articles/whats-in-the-box)
@@ -189,3 +191,9 @@
 # VIM / Neovim
 
 [Learn Vim The Smart Way](https://learnvim.irian.to/)
+
+# Zig 
+
+[Zig and Rust](https://matklad.github.io/2023/03/26/zig-and-rust.html)
+
+[Assorted Thoughts on Zig and Rust](https://www.scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/)
