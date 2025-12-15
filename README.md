@@ -109,6 +109,8 @@
 
 [Filesystems in the Linux Kernel](https://www.kernel.org/doc/html/latest/filesystems/)
 
+[3 Terminal Tricks you Wish You Knew Earlier](https://www.howtogeek.com/terminal-tricks-youll-wish-you-knew-earlier/)
+
 # Neovim
 
 [NVIM treesitter and text objects](https://www.josean.com/posts/nvim-treesitter-and-textobjects)
