@@ -90,6 +90,7 @@
 
 [How does Docker ACTUALLY work? The Hard Way: A Comprehensive Technical Deep Diving](https://medium.com/@furkan.turkal/how-does-docker-actually-work-the-hard-way-a-technical-deep-diving-c5b8ea2f0422)
 
+[Firecracker Deep Dive](https://kerkour.com/firecracker-deep-dive-rust)
 
 
 # Linux
@@ -184,6 +185,8 @@
 [Exploring Atomics in Rust](https://cfsamsonbooks.gitbook.io/)
 
 [The Death of the Thread Per Core](https://buttondown.com/jaffray/archive/the-death-of-thread-per-core/)
+
+[A Rust Job Queue With PostgresSQL](https://kerkour.com/rust-job-queue-with-postgresql)
 
 # System Design
 
