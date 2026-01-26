@@ -12,6 +12,8 @@
 
 [Deploy your first GenAI service with Kserve](https://kserve.github.io/website/docs/getting-started/genai-first-isvc)
 
+[How Claude Code Works](https://code.claude.com/docs/en/how-claude-code-works)
+
 # Authorization
 
 [Cedar Analysis: Open Source Tool to Verify Authorization Policies](https://www.cedarpolicy.com/blog/introducing-cedar-analysis)
