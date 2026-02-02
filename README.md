@@ -209,6 +209,10 @@
 
 [Immutability changes everything](https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
 
+# Tools
+
+[Affine, next generation knowledge management](https://github.com/toeverything/AFFiNE])
+
 # VIM / Neovim
 
 [Learn Vim The Smart Way](https://learnvim.irian.to/)
