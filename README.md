@@ -14,6 +14,9 @@
 
 [How Claude Code Works](https://code.claude.com/docs/en/how-claude-code-works)
 
+[Spec Driven Development With Claude Code](https://alexop.dev/posts/spec-driven-development-claude-code-in-action/)
+
+
 # Authorization
 
 [Cedar Analysis: Open Source Tool to Verify Authorization Policies](https://www.cedarpolicy.com/blog/introducing-cedar-analysis)
@@ -191,6 +194,8 @@
 [The Death of the Thread Per Core](https://buttondown.com/jaffray/archive/the-death-of-thread-per-core/)
 
 [A Rust Job Queue With PostgresSQL](https://kerkour.com/rust-job-queue-with-postgresql)
+
+[Upcoming Rust language features for kernel development](https://lwn.net/Articles/1039073/)
 
 # System Design
 
