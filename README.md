@@ -116,6 +116,10 @@
 
 [3 Terminal Tricks you Wish You Knew Earlier](https://www.howtogeek.com/terminal-tricks-youll-wish-you-knew-earlier/)
 
+# Mathematics
+
+[From the mathematics community on Reddit: Full Guide to Self-Studying Math](https://www.reddit.com/r/mathematics/s/qLNlW2ddzj)
+
 # Neovim
 
 [NVIM treesitter and text objects](https://www.josean.com/posts/nvim-treesitter-and-textobjects)
