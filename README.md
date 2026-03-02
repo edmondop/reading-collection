@@ -217,6 +217,12 @@
 
 [Affine, next generation knowledge management](https://github.com/toeverything/AFFiNE])
 
+# Version Control
+
+[JJ Strategy](https://reasonablypolymorphic.com/blog/jj-strategy/)
+
+[JJ Init](https://v5.chriskrycho.com/essays/jj-init/)
+
 # VIM / Neovim
 
 [Learn Vim The Smart Way](https://learnvim.irian.to/)
