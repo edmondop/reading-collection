@@ -63,6 +63,8 @@
 
 [Postgres to MySQL migration at Uber](https://www.uber.com/blog/postgres-to-mysql-migration)
 
+[A New Postgres Block Storage Layout for Full Text Search](https://www.paradedb.com/blog/block-storage-part-one)
+
 # Durable Executions
 
 [Why your Applications need Durable Executions](https://medium.com/orkes/why-your-applications-need-durable-execution-and-best-practices-to-achieve-it-d50c62fdce96)
