@@ -37,6 +37,8 @@
 
 [Iceberg Clustering in Dremio](https://www.dremio.com/blog/dremios-apache-iceberg-clustering-technical-blog/)
 
+[Duck Hunt: moving BauPlan from DuckDB to DataFusion](https://www.bauplanlabs.com/post/duck-hunt-moving-bauplan-from-duckdb-to-datafusion)
+
 # Cloud
 
 [Lessons learned from 10 years of DynamoDB](https://www.amazon.science/blog/lessons-learned-from-10-years-of-dynamodb)
