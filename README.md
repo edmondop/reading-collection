@@ -95,6 +95,8 @@
 
 [SIMD in the GPU world](https://www.rastergrid.com/blog/gpu-tech/2022/02/simd-in-the-gpu-world/)
 
+[Why do CPUs have multiple cache levels?](https://fgiesen.wordpress.com/2016/08/07/why-do-cpus-have-multiple-cache-levels/)
+
 # Infra
 
 [How does Docker ACTUALLY work? The Hard Way: A Comprehensive Technical Deep Diving](https://medium.com/@furkan.turkal/how-does-docker-actually-work-the-hard-way-a-technical-deep-diving-c5b8ea2f0422)
