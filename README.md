@@ -16,6 +16,10 @@
 
 [Spec Driven Development With Claude Code](https://alexop.dev/posts/spec-driven-development-claude-code-in-action/)
 
+# AI Usage - Practical tips
+
+[How to use Notbook LLM Effectively](https://drphilippahardman.substack.com/p/beyond-audio-summaries-how-to-use)
+
 
 # Authorization
 
