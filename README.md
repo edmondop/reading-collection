@@ -213,6 +213,16 @@
 
 [Upcoming Rust language features for kernel development](https://lwn.net/Articles/1039073/)
 
+# Software Architecture
+
+[Simple Made Easy - Rich Hickey](https://www.youtube.com/watch?v=SxdOUGdseq4)
+
+[Out of the Tar Pit - Moseley & Marks](https://curtclifton.net/papers/MoseleyMarks06a.pdf)
+
+[The Origin of Complexity](https://tengstrand.github.io/blog/2019-09-14-the-origin-of-complexity.html)
+
+[Leveraging Polylith to Improve Consistency, Reduce Complexity and Increase Changeability](https://felixbarbalet.com/leveraging-polylith-to-improve-consistency-reduce-complexity-and-increase-changeability/)
+
 # System Design
 
 [Redis Use Cases](https://newsletter.systemdesign.one/p/redis-use-cases)
