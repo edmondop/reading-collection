@@ -12,15 +12,21 @@
 
 [Deploy your first GenAI service with Kserve](https://kserve.github.io/website/docs/getting-started/genai-first-isvc)
 
+# AI Assisted Software Development
+
 [How Claude Code Works](https://code.claude.com/docs/en/how-claude-code-works)
 
 [Spec Driven Development With Claude Code](https://alexop.dev/posts/spec-driven-development-claude-code-in-action/)
+
+[The Arrow of Intent](https://loki.ws/code/2026/01/25/the-arrow-of-intent.html)
 
 [Simple Made Inevitably (Clojure Economics)](https://felixbarbalet.com/simple-made-inevitable-the-economics-of-language-choice-in-the-llm-era/)
 
 # AI Usage - Practical tips
 
 [How to use Notbook LLM Effectively](https://drphilippahardman.substack.com/p/beyond-audio-summaries-how-to-use)
+
+
 
 
 # Authorization
