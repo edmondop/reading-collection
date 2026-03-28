@@ -134,6 +134,8 @@
 
 [3 Terminal Tricks you Wish You Knew Earlier](https://www.howtogeek.com/terminal-tricks-youll-wish-you-knew-earlier/)
 
+[An applied introduction to eBPF with go](https://sazak.io/articles/an-applied-introduction-to-ebpf-with-go-2024-06-06)
+
 # Mathematics
 
 [From the mathematics community on Reddit: Full Guide to Self-Studying Math](https://www.reddit.com/r/mathematics/s/qLNlW2ddzj)
