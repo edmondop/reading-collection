@@ -136,6 +136,8 @@
 
 [An applied introduction to eBPF with go](https://sazak.io/articles/an-applied-introduction-to-ebpf-with-go-2024-06-06)
 
+[How the heck we get to main?](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
+
 # Mathematics
 
 [From the mathematics community on Reddit: Full Guide to Self-Studying Math](https://www.reddit.com/r/mathematics/s/qLNlW2ddzj)
