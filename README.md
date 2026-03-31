@@ -243,6 +243,10 @@
 
 [Immutability changes everything](https://www.cidrdb.org/cidr2015/Papers/CIDR15_Paper16.pdf)
 
+# Contract-Driven Development
+
+[Skir, modern alternative to Protocol Buffers with schema evolution, backward-compat checks, and code generation across 9 languages](https://github.com/gepheum/skir)
+
 # Tools
 
 [Affine, next generation knowledge management](https://github.com/toeverything/AFFiNE])
