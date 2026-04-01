@@ -233,6 +233,8 @@
 
 [Leveraging Polylith to Improve Consistency, Reduce Complexity and Increase Changeability](https://felixbarbalet.com/leveraging-polylith-to-improve-consistency-reduce-complexity-and-increase-changeability/)
 
+[Local First Software](https://www.inkandswitch.com/essay/local-first/)
+
 # System Design
 
 [Redis Use Cases](https://newsletter.systemdesign.one/p/redis-use-cases)
