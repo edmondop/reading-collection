@@ -10,6 +10,8 @@
 
 [OPEA Project](https://github.com/opea-project)
 
+[Career Ops](https://github.com/santifer/career-ops)
+
 [Deploy your first GenAI service with Kserve](https://kserve.github.io/website/docs/getting-started/genai-first-isvc)
 
 # AI Assisted Software Development
