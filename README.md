@@ -225,6 +225,7 @@
 
 [Upcoming Rust language features for kernel development](https://lwn.net/Articles/1039073/)
 
+[A Survey of Rust GUI libraries - 2025](https://www.boringcactus.com/2025/04/13/2025-survey-of-rust-gui-libraries.html)
 # Software Architecture
 
 [Simple Made Easy - Rich Hickey](https://www.youtube.com/watch?v=SxdOUGdseq4)
@@ -236,6 +237,8 @@
 [Leveraging Polylith to Improve Consistency, Reduce Complexity and Increase Changeability](https://felixbarbalet.com/leveraging-polylith-to-improve-consistency-reduce-complexity-and-increase-changeability/)
 
 [Local First Software](https://www.inkandswitch.com/essay/local-first/)
+
+
 
 # System Design
 
