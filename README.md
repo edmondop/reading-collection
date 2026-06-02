@@ -24,6 +24,8 @@
 
 [Simple Made Inevitably (Clojure Economics)](https://felixbarbalet.com/simple-made-inevitable-the-economics-of-language-choice-in-the-llm-era/)
 
+[Which Programming Languages Are Most Token Efficient?](https://martinalderson.com/posts/which-programming-languages-are-most-token-efficient/?ref=felixbarbalet.com)
+
 # AI Usage - Practical tips
 
 [How to use Notbook LLM Effectively](https://drphilippahardman.substack.com/p/beyond-audio-summaries-how-to-use)
