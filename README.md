@@ -146,6 +146,8 @@
 
 [Sockets Tutorial In Python](https://labs.iximiuz.com/tutorials/how-servers-work-tcp-sockets)
 
+[Serving Files over HTTP three ways: synchronous, epoll and io_uring](https://theconsensus.dev/p/2026/05/18/serving-files-three-ways.html)
+
 # Mathematics
 
 [From the mathematics community on Reddit: Full Guide to Self-Studying Math](https://www.reddit.com/r/mathematics/s/qLNlW2ddzj)
