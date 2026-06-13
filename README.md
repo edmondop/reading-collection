@@ -144,6 +144,8 @@
 
 [How the heck we get to main?](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html)
 
+[Sockets Tutorial In Python](https://labs.iximiuz.com/tutorials/how-servers-work-tcp-sockets)
+
 # Mathematics
 
 [From the mathematics community on Reddit: Full Guide to Self-Studying Math](https://www.reddit.com/r/mathematics/s/qLNlW2ddzj)
