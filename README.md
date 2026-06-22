@@ -2,6 +2,8 @@
 
 [Top 30 papers from Ilya Sutskever](https://aman.ai/primers/ai/top-30-papers/)
 
+[Probability for data science](https://probability4datascience.com/download.html)
+
 # AI - Tooling
 
 [Build your own coding agent (using PydanticAI) ](https://martinfowler.com/articles/build-own-coding-agent.html)
