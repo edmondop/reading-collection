@@ -117,6 +117,8 @@
 
 [Modern Microprocessors](https://www.lighterra.com/papers/modernmicroprocessors/)
 
+[Memory Management Reference](https://www.memorymanagement.org/)
+
 # Infra
 
 [How does Docker ACTUALLY work? The Hard Way: A Comprehensive Technical Deep Diving](https://medium.com/@furkan.turkal/how-does-docker-actually-work-the-hard-way-a-technical-deep-diving-c5b8ea2f0422)
