@@ -150,6 +150,10 @@
 
 [Serving Files over HTTP three ways: synchronous, epoll and io_uring](https://theconsensus.dev/p/2026/05/18/serving-files-three-ways.html)
 
+[CPU Utilization is Wrong](https://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html)
+
+[The PMC of Ec2: Measuring IPC](https://www.brendangregg.com/blog/2017-05-04/the-pmcs-of-ec2.html)
+
 # Mathematics
 
 [From the mathematics community on Reddit: Full Guide to Self-Studying Math](https://www.reddit.com/r/mathematics/s/qLNlW2ddzj)
