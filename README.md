@@ -170,6 +170,8 @@
 
 [Packing Neovim with Fennel](https://www.jonashietala.se/blog/2025/10/29/packing_neovim_with_fennel/)
 
+[Understanding Neovim diagnostics](https://influentcoder.com/posts/nvim-diagnostics/)
+
 
 # Postgres
 
