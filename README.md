@@ -154,6 +154,8 @@
 
 [The PMC of Ec2: Measuring IPC](https://www.brendangregg.com/blog/2017-05-04/the-pmcs-of-ec2.html)
 
+[The Path of a Packet Through The LKinux Kernel](https://www.net.in.tum.de/fileadmin/TUM/NET/NET-2024-04-1/NET-2024-04-1_16.pdf)
+
 # Mathematics
 
 [From the mathematics community on Reddit: Full Guide to Self-Studying Math](https://www.reddit.com/r/mathematics/s/qLNlW2ddzj)
